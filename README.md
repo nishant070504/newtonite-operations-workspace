@@ -191,24 +191,6 @@ These are deliberate boundaries of the current submission:
 - There is no background worker or outbox implementation yet.
 - There is no deployment configuration or hosted demo link in this repository.
 
-## Next week
 
-1. Connect the dashboard to the API and replace local issue state with authenticated server data.
-2. Add Prisma migrations and a repeatable seed script with demo users for each role.
-3. Add server-side cursor pagination, search, labels, due dates, comments, and assignee changes.
-4. Make every issue mutation and its activity event one database transaction.
-5. Add a transactional outbox and retrying worker for reliable asynchronous notifications.
-6. Add integration tests against PostgreSQL and a containerized local setup.
 
-## Submission checklist
 
-Before submitting, confirm that the repository has:
-
-- A public repository or reviewer access
-- This `README.md`
-- `ENGINEERING_DECISIONS.md`
-- A reproducible PostgreSQL setup or hosted database instructions
-- Demo credentials for each supported role
-- A passing test command
-- A live deployment link, if one is required by the submission form
-- A short demo video link, if one is required by the submission form
