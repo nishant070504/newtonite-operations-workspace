@@ -7,7 +7,6 @@ Newtonite is a focused operations workspace for creating, assigning, progressing
 
 The current repository is intentionally a small vertical slice. The API is the authoritative business-logic layer; the dashboard currently uses representative in-memory data and is not yet connected to the API.
 
-## Current scope
 
 ## Screenshots
 
