@@ -13,7 +13,9 @@ The current repository is intentionally a small vertical slice. The API is the a
 
 ### Operations Dashboard
 ![Operations Dashboard](screenshots/dashboard.png)
-![Test Results](screenshots/tests.png)
+
+### Create an Issue
+![Create Issue Modal](screenshots/create-issue.png)
 
 ### Dashboard experience
 
