@@ -9,6 +9,12 @@ The current repository is intentionally a small vertical slice. The API is the a
 
 ## Current scope
 
+## Screenshots
+
+### Operations Dashboard
+![Operations Dashboard](screenshots/dashboard.png)
+![Test Results](screenshots/tests.png)
+
 ### Dashboard experience
 
 - My issues, All issues, and Activity views
